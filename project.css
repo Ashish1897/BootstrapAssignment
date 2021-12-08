@@ -1,0 +1,25 @@
+
+div img{
+  width: 300px;
+  height: 450px;
+}
+#top{
+    background-color: #000000;
+    padding: 10px;
+  
+  }
+  #card{
+    background-color: #000000;
+  }
+  #profiles{
+    padding: 10px;
+    background-color: #000000;
+  }
+  #profiles a{
+    padding: 10px;
+    color: white;
+    text-decoration: transparent;
+  }
+  footer{
+    padding: 10px;
+  }

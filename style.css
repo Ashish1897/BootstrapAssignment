@@ -1,0 +1,45 @@
+.home {
+  background: url("images/tony.png") top right no-repeat ;
+  height: 100vh;
+  width: 100%;
+    background-color: #000000;
+  }
+  
+  .home{
+    height: 100vh;
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .home h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+  }
+  
+  .home p {
+    font-size: 13px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+  }
+  #profiles{
+    padding: 10px;
+    background-color: #000000;
+  }
+  #profiles a{
+    padding: 10px;
+    color: white;
+    text-decoration: transparent;
+  }
+  footer{
+    padding: 10px;
+  }
+  
+  
